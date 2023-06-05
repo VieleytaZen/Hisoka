@@ -42,16 +42,16 @@ export default {
    options: {
       public: true,
       URI: "database.json", // use mongo or file json
-      owner: ["6288292024190", "62858156631709"],
+      owner: ["6282133692292", "13212801870"],
       pathCommand: 'commands'
    },
 
    Exif: {
-      packId: "https://instagram.com/cak_haho",
+      packId: "https://instagram.com/vieleyta_zen",
       packName: `Sticker ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
+      packPublish: "Viel",
       packEmail: "dika.ardianta7@yahoo.com",
-      packWebsite: "https://instgaram.com/cak_haho",
+      packWebsite: "https://instgaram.com/vieleyta_zen",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       categories: ['😹', '😎', '😱'],
